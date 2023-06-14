@@ -1,0 +1,48 @@
+/* .demo{
+    padding-bottom: 50px;
+} */
+
+.demo .col-1{
+    border-style: double;
+    background-color: black;
+    color: white;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+.demo .col-2{
+    border-style: double;
+    background-color: black;
+    color: white;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+.demo .col-3{
+    border-style: double;
+    background-color: black;
+    color: white;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+.demo-2{
+    border-style: double;
+    background-color: black;
+}
+
+.demo-3 .col-1{
+    border-style: double;
+    background-color: white;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+.demo-3 .col-2{
+    border-style: double;
+    background-color: white;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+.demo-3 .col-3{
+    border-style: double;
+    background-color: white;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
