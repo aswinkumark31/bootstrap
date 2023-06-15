@@ -1,0 +1,29 @@
+.navbar{
+    border-style: double;
+    font-size: large;
+}
+.demo-1 .column-1{
+    border-style: double;
+   
+} 
+
+.img-1{
+    width: 100%;
+}
+.demo-2 .column-1{
+    border-style: double;
+}
+.demo-3 .column-1{
+    border-style: double;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.demo-4 .column-1{
+    border-style: double;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+.demo-5 .column-1{
+    border-style: double;
+    
+}
