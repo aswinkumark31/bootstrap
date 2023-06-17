@@ -1,0 +1,33 @@
+.col-lg-6{
+    border-style: double;
+    border-color: blue;
+    background-color: aqua;
+}
+
+.demo{
+    border-style: double;
+    border-color: blue;
+    background-color: aqua;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.row-1{
+    border-style: double;
+    border-color: blue;
+    background-color: chocolate;
+}
+.row .img-1{
+    width: 50%; 
+}
+.row .img-2{
+    width: 200px;
+    margin-left: 25%;
+}
+.bottom{
+    border-style: double;
+    border-color: blue;
+    background-color: aqua;
+    font-size: larger;
+    font-weight: bolder;
+}
