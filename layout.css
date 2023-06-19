@@ -1,0 +1,41 @@
+.demo-1 .column-1{
+    border-style: double;
+    background-color: black;
+   padding-top: 5%;
+   
+}
+.demo-1 .column-2{
+    border-style: double;
+    background-color: yellow;
+   padding-top: 5%;
+    
+}
+.demo-2 .column-1{
+    border-style: solid;
+    color: blue;
+    background-color: forestgreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.demo-2 .column-2{
+    border-style: solid;
+    color: blue;
+    background-color: forestgreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.demo-2 .column-3{
+    border-style: solid;
+    color: blue;
+    background-color: forestgreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.demo-2 .column-4{
+    border-style: solid;
+    color: blue;
+    background-color: forestgreen;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

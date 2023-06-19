@@ -1,0 +1,28 @@
+.demo-1 .column-1{
+    background-color: olivedrab;
+
+}
+.demo-2 .column-1{
+    background-color: white;
+    border-style: double;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.demo-3 .column-1{
+    background-color: palegreen;
+    padding-top: 15%;
+    padding-bottom: 8%;
+}
+.demo-4 .column-1{
+    background-color: olivedrab;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.demo-4 .column-2{
+    background-color: olivedrab;
+    border-style: double;
+}
+.demo-4 .column-3{
+    background-color: olivedrab;
+    border-style: double;
+}
