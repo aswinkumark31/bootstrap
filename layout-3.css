@@ -1,0 +1,43 @@
+
+.demo-2 .column-1{
+    border-style: double;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-color: springgreen;
+}
+.demo-2 .column-2{
+    border-style: double;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-color: blue;
+}
+.demo-3 .column-1{
+    border-style: double;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-color: brown;
+}
+.demo-3 .column-2{
+    border-style: double;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-color: darkmagenta;
+}
+.demo-1 .column-2{
+    border-style: double;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: wheat;
+}
+.demo-4 .column-1{
+    border-style: double;
+    padding-top: 45%;
+    padding-bottom: 45%;
+    background-color: yellow;
+}
+.demo-5 .column-1{
+    border-style: double;
+    padding-top: 45%;
+    padding-bottom: 45%;
+    background-color: slateblue;
+}
