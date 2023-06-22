@@ -2,60 +2,161 @@
     background-color: silver;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-size: 2em;
 }
 .demo-1 .column-2{
     background-color: silver;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-size: 2em;
 }
 .demo-1 .column-3{
     background-color: silver;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-size: 2em;
 }
 .demo-1 .column-4{
     background-color: silver;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-size: 2em;
 }
 
 .demo-2 .column-1{
     background-color: whitesmoke;
     padding-top: 1%;
     padding-bottom: 1%;
+    font-size: large;
 }
 .demo-2 .column-2{
     background-color: whitesmoke;
     padding-top: 1%;
     padding-bottom: 1%;
+    font-size: large;
 }
 .demo-2 .column-3{
     background-color: whitesmoke;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: large;
 }
 .demo-2 .column-4{
     background-color: whitesmoke;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: large;
 }
 .demo-3 .column-1{
     background-color: whitesmoke;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 2em;
 }
 .demo-3 .column-2{
     background-color: whitesmoke;
+    font-size: 1.5em;
+    padding-top: 2%;
 }
 .demo-3 .column-3{
     background-color: white;
+    font-size: 2em;
+}
+.demobtn-1 .column-1{
+    background-color: teal;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.demobtn-2 .column-1{
+    background-color: teal;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 .demo-5 .column-1{
     background-color: silver;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 3em;
 }
 .demo-6 .column-1{
     background-color: whitesmoke;
+    font-size: 2em;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 .demo-7 .column-1{
-    background-color: aqua;
+    background-color: teal;
+    font-size: 1em;
+}
+.demo-8 .column-1{
+    background-color: silver;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    font-size: 2em;
+}
+.demo-8 .column-2{
+    background-color: silver;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    font-size: 2em;
+}
+.demo-8 .column-3{
+    background-color: silver;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    font-size: 2em;
+}
+.demo-9 .column-1{
+    background-color: whitesmoke;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
+}
+.demo-9 .column-2{
+    background-color: whitesmoke;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
+}
+.demo-9 .column-3{
+    background-color: whitesmoke;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
+}
+.demo-10 .column-1{
+    background-color: silver;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    font-size: 2em;
+}
+.demo-10 .column-2{
+    background-color: silver;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    font-size: 2em;
+}
+.demo-10 .column-3{
+    background-color: silver;
+    padding-top: 12%;
+    padding-bottom: 12%;
+    font-size: 2em;
+}
+.demo-11 .column-1{
+    background-color: whitesmoke;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
+}
+.demo-11 .column-2{
+    background-color: whitesmoke;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
+}
+.demo-11 .column-3{
+    background-color: whitesmoke;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
 }
