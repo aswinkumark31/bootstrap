@@ -1,62 +1,30 @@
-.demo-1 .column-1{
-    background-color: silver;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    font-size: 2em;
-}
-.demo-1 .column-2{
-    background-color: silver;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    font-size: 2em;
-}
-.demo-1 .column-3{
-    background-color: silver;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    font-size: 2em;
-}
-.demo-1 .column-4{
-    background-color: silver;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    font-size: 2em;
-}
 
 .demo-2 .column-1{
-    background-color: whitesmoke;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    font-size: large;
+    background-color: silver;
+    padding-top: 20%;
+    padding-bottom: 20%;
 }
+
 .demo-2 .column-2{
     background-color: whitesmoke;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    font-size: large;
-}
-.demo-2 .column-3{
-    background-color: whitesmoke;
     padding-top: 5%;
     padding-bottom: 5%;
     font-size: large;
+    font-weight: bold;
 }
-.demo-2 .column-4{
-    background-color: whitesmoke;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    font-size: large;
-}
+
 .demo-3 .column-1{
     background-color: whitesmoke;
     padding-top: 2%;
     padding-bottom: 2%;
     font-size: 2em;
+    font-weight: bold;
 }
 .demo-3 .column-2{
     background-color: whitesmoke;
     font-size: 1.5em;
     padding-top: 2%;
+    line-height: 1.8em;
 }
 .demo-3 .column-3{
     background-color: white;
@@ -64,13 +32,11 @@
 }
 .demobtn-1 .column-1{
     background-color: teal;
-    padding-top: 2%;
-    padding-bottom: 2%;
+   
 }
 .demobtn-2 .column-1{
     background-color: teal;
-    padding-top: 2%;
-    padding-bottom: 2%;
+  
 }
 .demo-5 .column-1{
     background-color: silver;
@@ -81,8 +47,9 @@
 .demo-6 .column-1{
     background-color: whitesmoke;
     font-size: 2em;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-weight: bold;
 }
 .demo-7 .column-1{
     background-color: teal;
@@ -90,73 +57,27 @@
 }
 .demo-8 .column-1{
     background-color: silver;
-    padding-top: 12%;
-    padding-bottom: 12%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     font-size: 2em;
 }
 .demo-8 .column-2{
-    background-color: silver;
-    padding-top: 12%;
-    padding-bottom: 12%;
-    font-size: 2em;
-}
-.demo-8 .column-3{
-    background-color: silver;
-    padding-top: 12%;
-    padding-bottom: 12%;
-    font-size: 2em;
+    background-color: whitesmoke;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: large;
+    
 }
 .demo-9 .column-1{
-    background-color: whitesmoke;
-    padding-top: 3%;
-    padding-bottom: 3%;
-    font-size: large;
+    background-color: silver;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: 2em;
 }
 .demo-9 .column-2{
     background-color: whitesmoke;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 5%;
+    padding-bottom: 5%;
     font-size: large;
-}
-.demo-9 .column-3{
-    background-color: whitesmoke;
-    padding-top: 3%;
-    padding-bottom: 3%;
-    font-size: large;
-}
-.demo-10 .column-1{
-    background-color: silver;
-    padding-top: 12%;
-    padding-bottom: 12%;
-    font-size: 2em;
-}
-.demo-10 .column-2{
-    background-color: silver;
-    padding-top: 12%;
-    padding-bottom: 12%;
-    font-size: 2em;
-}
-.demo-10 .column-3{
-    background-color: silver;
-    padding-top: 12%;
-    padding-bottom: 12%;
-    font-size: 2em;
-}
-.demo-11 .column-1{
-    background-color: whitesmoke;
-    padding-top: 3%;
-    padding-bottom: 3%;
-    font-size: large;
-}
-.demo-11 .column-2{
-    background-color: whitesmoke;
-    padding-top: 3%;
-    padding-bottom: 3%;
-    font-size: large;
-}
-.demo-11 .column-3{
-    background-color: whitesmoke;
-    padding-top: 3%;
-    padding-bottom: 3%;
-    font-size: large;
+    
 }
